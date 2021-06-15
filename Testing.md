@@ -12,3 +12,4 @@
 - Framework para hacer pruebas unitarias (especializado para proyectos de React)
 - Snapshots del Virtual DOM de React
 - Mocking: Elementos demo
+- babel-jest viene por defecto en jest y babel-polyfill viene por defecto en babel y no es necesario instalarlos. Además de que esto solo se utilizaría por si se hacen los tests en una instalación de Node que no soporte la versión de ECMAScript que estemos utilizando
